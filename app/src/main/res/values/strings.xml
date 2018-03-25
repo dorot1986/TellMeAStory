@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TellMeAStory</string>
+    <string name="mm_continue">Continue</string>
+    <string name="mm_newgame">New game</string>
+    <string name="mm_loadgame">Load game</string>
+    <string name="mm_bookstore">Book store\'s placeholder</string>
+    <string name="mm_settings">Settings</string>
+    <string name="mm_quit">Quit</string>
+</resources>
